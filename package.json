@@ -1,0 +1,15 @@
+{
+  "name": "pc-lambda",
+  "version": "1.0.0",
+  "description": "detect faces in s3 objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emilia Garipova",
+  "license": "ISC",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "sharp": "^0.26.3"
+  }
+}
