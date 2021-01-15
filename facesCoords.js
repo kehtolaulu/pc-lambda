@@ -1,5 +1,4 @@
 const AWS = require('aws-sdk');
-const photo  = 'input.jpg';
 const promisify = require('util').promisify;
 
 const client = new AWS.Rekognition();
